@@ -1,0 +1,44 @@
+h1 {
+  color: blue;
+  text-align: center;
+  
+}
+h3
+{
+  color: orange;
+  width: 300px;
+  height: 200px;
+}
+img {
+  margin-left: 620px;
+}
+.section
+{
+  text-align: center;
+}
+input{
+
+height: 40px;
+width: 390px;
+border-radius: 25px;
+
+}
+button{
+
+height: 40px;
+width: 90px;
+border-radius: 10px;
+
+background-color:gray;
+}
+.container
+{
+  height: 120px;
+  width: inherit;
+  font-size: 50px;
+  color: orange;
+  background-color: black;
+}
+body{
+  background-color:cornsilk;
+}
