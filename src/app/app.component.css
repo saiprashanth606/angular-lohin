@@ -39,6 +39,7 @@ background-color:gray;
   color: orange;
   background-color: black;
 }
-body{
-  
+::placeholder
+{
+  font-size: x-large;
 }
